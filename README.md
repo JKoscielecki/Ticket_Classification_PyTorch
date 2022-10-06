@@ -1,5 +1,5 @@
 # Ticket_Classification_PyTorch
-# HelpDeskTickets_Analysis
+Help desk tickets analysis
 
 In the 'EDA' file you can see preliminary analysis, text cleaning, oversampling, data augmentation, feature engineering (.ipynb)
 
